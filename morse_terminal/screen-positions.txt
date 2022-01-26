@@ -1,0 +1,9 @@
+with 320
+hight 240
+
+topp 18
+Text topp 20 
+
+
+
+Bott 220
